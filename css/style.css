@@ -225,3 +225,26 @@ header p {
 .roadmap-item p {
     line-height: 1.6;
 }
+#community {
+    text-align: center;
+    padding: 50px 20px;
+    background: #000;
+    color: white;
+}
+
+#community h2 {
+    font-size: 32px;
+    color: gold;
+    margin-bottom: 20px;
+}
+
+#community p {
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.community-links {
+    margin-top: 25px;
+}
