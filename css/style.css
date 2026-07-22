@@ -79,3 +79,32 @@ footer{
     background:#111;
     color:#999;
 }
+.hero-buttons {
+    margin-top: 25px;
+}
+
+.btn {
+    display: inline-block;
+    background: gold;
+    color: black;
+    text-decoration: none;
+    padding: 12px 24px;
+    margin: 8px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: orange;
+    transform: scale(1.05);
+}
+
+.btn-secondary {
+    background: white;
+    color: black;
+}
+
+.btn-secondary:hover {
+    background: lightgray;
+}
