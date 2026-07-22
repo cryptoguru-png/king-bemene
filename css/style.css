@@ -309,3 +309,10 @@ footer p {
 .footer-links a:hover {
     color: gold;
 }
+#hero img {
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 25px;
+}
