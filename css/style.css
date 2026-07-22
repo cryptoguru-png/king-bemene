@@ -248,3 +248,33 @@ header p {
 .community-links {
     margin-top: 25px;
 }
+#faq {
+    text-align: center;
+    padding: 50px 20px;
+    background: white;
+}
+
+#faq h2 {
+    font-size: 32px;
+    color: #111;
+    margin-bottom: 30px;
+}
+
+.faq-item {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #111;
+    color: white;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.faq-item h3 {
+    color: gold;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    line-height: 1.6;
+}
