@@ -278,3 +278,34 @@ header p {
 .faq-item p {
     line-height: 1.6;
 }
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+}
+
+footer h3 {
+    color: gold;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+.footer-links {
+    margin: 20px 0;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.footer-links a:hover {
+    color: gold;
+}
