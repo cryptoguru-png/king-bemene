@@ -19,12 +19,12 @@ header{
     background:linear-gradient(135deg,#000000,#1a1a1a);
     text-align:center;
     padding:60px 20px;
-    border-bottom:2px solid gold;
+    border-bottom:2px solid #D4AF37;
 }
 
 header h1{
     font-size:42px;
-    color:gold;
+    color:#D4AF37;
 text-shadow:none;
 
 }
@@ -32,7 +32,7 @@ text-shadow:none;
 header p{
     margin-top:15px;
     font-size:18px;
-    color:gold;
+    color:#D4AF37;
 }
 
 nav{
@@ -53,7 +53,7 @@ nav a{
 }
 
 nav a:hover{
-    color:gold;
+    color:#D4AF37;
 }
 
 #hero{
@@ -65,7 +65,7 @@ nav a:hover{
 
 #hero h2{
     font-size:36px;
-    color:gold;
+    color:#D4AF37;
     margin-bottom:20px;
 }
 
@@ -87,7 +87,7 @@ footer{
 
 .btn {
     display: inline-block;
-    background: gold;
+    background: #D4AF37;
     color: black;
     text-decoration: none;
     padding: 12px 24px;
@@ -125,7 +125,7 @@ nav a {
 }
 
 nav a:hover {
-    color: gold;
+    color: #D4AF37;
 }
 header {
     background: #000;
@@ -141,7 +141,7 @@ header h1 {
 
 header p {
     font-size: 18px;
-    color: gold;
+    color: #D4AF37;
 }
 #about {
     text-align: center;
@@ -184,7 +184,7 @@ header p {
 }
 
 .project-card h3 {
-    color: gold;
+    color: #D4AF37;
     font-size: 24px;
     margin-bottom: 15px;
 }
@@ -220,7 +220,7 @@ header p {
 }
 
 .roadmap-item h3 {
-    color: gold;
+    color: #D4AF37;
     margin-bottom: 10px;
 }
 
@@ -236,7 +236,7 @@ header p {
 
 #community h2 {
     font-size: 32px;
-    color: gold;
+    color: #D4AF37;
     margin-bottom: 20px;
 }
 
@@ -273,7 +273,7 @@ header p {
 }
 
 .faq-item h3 {
-    color: gold;
+    color: #D4AF37;
     margin-bottom: 10px;
 }
 
@@ -288,7 +288,7 @@ footer {
 }
 
 footer h3 {
-    color: gold;
+    color: #D4AF37;
     font-size: 26px;
     margin-bottom: 10px;
 }
@@ -309,7 +309,7 @@ footer p {
 }
 
 .footer-links a:hover {
-    color: gold;
+    color: #D4AF37;
 }
 #hero img {
     max-width: 350px;
