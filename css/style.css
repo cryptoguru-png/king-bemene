@@ -1,1 +1,81 @@
-/* King Bemene Ecosystem Styles */
+/* ===========================
+   KING BEMENE ECOSYSTEM
+   =========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#0b0b0b;
+    color:#ffffff;
+    line-height:1.7;
+}
+
+header{
+    background:linear-gradient(135deg,#000000,#1a1a1a);
+    text-align:center;
+    padding:60px 20px;
+    border-bottom:2px solid gold;
+}
+
+header h1{
+    font-size:42px;
+    color:gold;
+}
+
+header p{
+    margin-top:15px;
+    font-size:18px;
+    color:#dddddd;
+}
+
+nav{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:18px;
+    background:#111111;
+    padding:18px;
+    border-bottom:1px solid #333;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:gold;
+}
+
+#hero{
+    max-width:1000px;
+    margin:auto;
+    text-align:center;
+    padding:80px 20px;
+}
+
+#hero h2{
+    font-size:36px;
+    color:gold;
+    margin-bottom:20px;
+}
+
+#hero p{
+    font-size:19px;
+    color:#dddddd;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    border-top:1px solid #333;
+    background:#111;
+    color:#999;
+}
