@@ -333,13 +333,13 @@ footer p {
 }
 .token-card{
     background:#111;
-    border:1px solid #D4AF37
+    border:1px solid #D4AF37;
     border-radius:12px;
     padding:25px;
     transition:0.3s;
 }
 .token-card h3{
-    color:#D4AF37
+    color:#D4AF37;
     margin-bottom:10px;
 }
 
