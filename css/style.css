@@ -302,14 +302,20 @@ footer p {
 }
 
 .footer-links a {
-    color: white;
+    display: inline-block;
+    background: #D4AF37;
+    color: #000;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 10px;
+    padding: 12px 24px;
+    border-radius: 8px;
     font-weight: bold;
+    transition: 0.3s;
 }
 
 .footer-links a:hover {
-    color: #D4AF37;
+    background: #f0c85a;
+    transform: scale(1.05);
 }
 #hero img {
     max-width: 350px;
