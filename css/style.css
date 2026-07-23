@@ -332,11 +332,17 @@ footer p {
     margin-bottom:30px;
 }
 .token-card{
+    max-width:700px;
+    margin:20px auto;
     background:#111;
     border:1px solid #D4AF37;
     border-radius:12px;
     padding:25px;
     transition:0.3s;
+}
+.token-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 0 20px rgba(212,175,55,0.3);
 }
 .token-card h3{
     color:#D4AF37;
