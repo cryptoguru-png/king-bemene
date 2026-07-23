@@ -325,8 +325,16 @@ footer p {
 #tokenomics{
     padding:80px 20px;
     text-align:center;
+    background:#ffffff;
+}
+#tokenomics h2{
+    color:#111;
+    margin-bottom:30px;
 }
 
+#tokenomics p{
+    color:#333;
+}
 .tokenomics-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
