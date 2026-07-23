@@ -337,7 +337,7 @@ footer p {
 
 .token-card{
     background:#111;
-    border:1px solid #C8A044;
+    border:1px solid #D4AF37
     border-radius:15px;
     padding:25px;
     transition:0.3s;
@@ -349,7 +349,7 @@ footer p {
 }
 
 .token-card h3{
-    color:#C8A044;
+    color:#D4AF37
     margin-bottom:10px;
 }
 
