@@ -399,3 +399,17 @@ footer p {
     line-height:1.6;
     color:#ddd;
 }
+html, body {
+    overflow-x: hidden;
+}
+
+#updates {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.update-card {
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+}
