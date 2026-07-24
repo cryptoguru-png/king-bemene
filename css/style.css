@@ -330,13 +330,13 @@ footer p {
    LATEST UPDATES
    =========================== */
 
-#updates{
+#news {
     text-align:center;
     padding:50px 20px;
     background:#f5f5f5;
 }
 
-#updates h2{
+#news h2 {
     font-size:32px;
     color:#111;
     margin-bottom:30px;
