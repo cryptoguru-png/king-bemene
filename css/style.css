@@ -404,3 +404,16 @@ html, body {
     vertical-align:middle;
     margin-right:8px;
 }
+.section-crown{
+    width:38px;
+    height:auto;
+    vertical-align:middle;
+    margin-right:10px;
+}
+
+.mini-crown{
+    width:32px;
+    height:auto;
+    vertical-align:middle;
+    margin-right:8px;
+}
