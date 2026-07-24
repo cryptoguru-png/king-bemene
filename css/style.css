@@ -398,3 +398,9 @@ html, body {
 .logo-title h1{
     margin:0;
 }
+.mini-crown{
+    width:32px;
+    height:auto;
+    vertical-align:middle;
+    margin-right:8px;
+}
