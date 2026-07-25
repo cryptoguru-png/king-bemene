@@ -541,3 +541,49 @@ html, body {
     font-weight:bold;
     margin-top:10px;
    }
+/* ===========================
+   OFFICIAL LINKS
+   =========================== */
+
+#official-links{
+    background:#ffffff;
+    padding:50px 20px;
+    text-align:center;
+}
+
+.links-card{
+    max-width:650px;
+    margin:30px auto;
+    background:#111;
+    color:#fff;
+    padding:30px;
+    border-radius:18px;
+    border:2px solid #D4AF37;
+}
+
+.official-btn{
+    display:block;
+    width:100%;
+    max-width:320px;
+    margin:15px auto;
+    padding:16px;
+    background:#D4AF37;
+    color:#111;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:18px;
+    border-radius:10px;
+    transition:.3s;
+}
+
+.official-btn:hover{
+    background:#f0c84b;
+    transform:translateY(-2px);
+}
+
+.security-note{
+    margin-top:25px;
+    color:#D4AF37;
+    font-size:15px;
+    font-weight:bold;
+}
