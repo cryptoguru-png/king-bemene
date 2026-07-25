@@ -550,7 +550,12 @@ html, body {
     padding:50px 20px;
     text-align:center;
 }
-
+#official-links h2 img{
+    width:32px;
+    height:32px;
+    vertical-align:middle;
+    margin-right:10px;
+}
 .links-card{
     max-width:650px;
     margin:30px auto;
