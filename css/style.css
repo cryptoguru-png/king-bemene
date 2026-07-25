@@ -519,3 +519,25 @@ html, body {
     background:#f5d76e;
     transform:translateY(-2px);
 }
+.contract-address{
+    background:#222;
+    color:#D4AF37;
+    padding:12px;
+    border:1px solid #D4AF37;
+    border-radius:8px;
+    word-break:break-all;
+    cursor:pointer;
+    margin:15px 0;
+    transition:0.3s;
+}
+
+.contract-address:hover{
+    background:#333;
+}
+
+.copy-message{
+    display:none;
+    color:#4CAF50;
+    font-weight:bold;
+    margin-top:10px;
+   }
