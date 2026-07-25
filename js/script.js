@@ -13,3 +13,16 @@ window.onclick = function(event) {
     }
 }
 // King Bemene Ecosystem JavaScript
+function copyContract() {
+    const address = document.getElementById("alphaContract").innerText;
+
+    navigator.clipboard.writeText(address);
+
+    const message = document.getElementById("copyMessage");
+
+    message.style.display = "block";
+
+    setTimeout(function () {
+        message.style.display = "none";
+    }, 2000);
+}
