@@ -558,7 +558,7 @@ html, body {
 }
 .links-card{
     max-width:650px;
-    margin:30px auto;
+    margin:0 auto 30px;
     background:#111;
     color:#fff;
     padding:30px;
