@@ -162,7 +162,7 @@ footer{
 
 .project-card {
     max-width: 500px;
-    margin: auto;
+    margin: 0 auto 30px;
     padding: 25px;
     background: #111;
     color: white;
