@@ -11,4 +11,5 @@ window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
     }
-}// King Bemene Ecosystem JavaScript
+}
+// King Bemene Ecosystem JavaScript
