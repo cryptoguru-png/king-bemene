@@ -489,3 +489,10 @@ html, body {
 .close:hover{
     color:#ffffff;
 }
+.project-logo{
+    display:block;
+    width:90px;
+    height:90px;
+    margin:0 auto 15px;
+    object-fit:contain;
+}
