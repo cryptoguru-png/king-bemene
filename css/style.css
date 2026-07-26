@@ -550,11 +550,20 @@ html, body {
     padding:50px 20px;
     text-align:center;
 }
+#official-links h2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    color:#D4AF37;
+    font-size:28px;
+    margin-bottom:20px;
+}
+
 #official-links h2 img{
-    width:32px;
-    height:32px;
-    vertical-align:middle;
-    margin-right:10px;
+    width:40px;
+    height:40px;
+    margin:0;
 }
 .links-card{
     max-width:650px;
@@ -565,21 +574,7 @@ html, body {
     border-radius:18px;
     border:2px solid #D4AF37;
 }
-.links-card h2{
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    gap:12px;
-    color:#D4AF37;
-    margin-bottom:20px;
-    font-size:28px;
-}
 
-.links-card h2 img{
-    width:40px;
-    height:40px;
-    flex-shrink:0;
-}
 .official-btn{
     display:block;
     width:100%;
