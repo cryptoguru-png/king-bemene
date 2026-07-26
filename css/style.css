@@ -644,3 +644,10 @@ html, body {
 .project-links a:hover{
     background:#f5d76e;
 }
+.project-card img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 20px;
+}
