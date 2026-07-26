@@ -565,7 +565,21 @@ html, body {
     border-radius:18px;
     border:2px solid #D4AF37;
 }
+.links-card h2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    color:#D4AF37;
+    margin-bottom:20px;
+    font-size:28px;
+}
 
+.links-card h2 img{
+    width:40px;
+    height:40px;
+    flex-shrink:0;
+}
 .official-btn{
     display:block;
     width:100%;
