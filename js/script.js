@@ -13,7 +13,7 @@ window.onclick = function(event) {
     }
 }
 // King Bemene Ecosystem JavaScript
-function copyContract() {
+function copyAlphaDogContract() {
     const address = document.getElementById("alphaContract").innerText;
 
     navigator.clipboard.writeText(address);
@@ -26,7 +26,7 @@ function copyContract() {
         message.style.display = "none";
     }, 2000);
 }
-function copyContract() {
+function copyKingBemeneContract() {
     const address = document.getElementById("kbmnContract").innerText;
 
     navigator.clipboard.writeText(address);
