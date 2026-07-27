@@ -26,3 +26,16 @@ function copyContract() {
         message.style.display = "none";
     }, 2000);
 }
+function copyContract() {
+    const address = document.getElementById("kbmnContract").innerText;
+
+    navigator.clipboard.writeText(address);
+
+    const message = document.getElementById("kbmnCopyMessage");
+
+    message.style.display = "block";
+
+    setTimeout(function () {
+        message.style.display = "none";
+    }, 2000);
+}
